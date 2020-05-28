@@ -1,0 +1,28 @@
+
+-----------------------------------------------------------
+
+El Numero de Cedula del cliente es: 001
+El Nombre del cliente es: Juan Lopez
+El Numero telefonico  es: 77119343
+La dirreccion del cliente es: DE alla para aca
+El correo del cliente  es: miu@gmail.com
+La Estadia en el Hotel es de: 5 dias
+La Habitacion del cliente es: Ordinaria
+-----------------------------------------------------------
+
+El Numero de Cedula del cliente es: 002
+El Nombre del cliente es: Marvin
+El Numero telefonico  es: 78787878
+La dirreccion del cliente es: diiandos
+El correo del cliente  es: ndslfnlsdf
+La Estadia en el Hotel es de: 4 horas
+La Habitacion del cliente es: Presidencial
+-----------------------------------------------------------
+
+El Numero de Cedula del cliente es: 0003
+El Nombre del cliente es: DEnis
+El Numero telefonico  es: 090909
+La dirreccion del cliente es: alli
+El correo del cliente  es: aqui
+La Estadia en el Hotel es de: 5 dias
+La Habitacion del cliente es: Presidencial
