@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1590267236 source:c:\users\usuario\desktop\proyecto1\menu.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	"Clientes.h"
+
+1590266537 source:c:\users\usuario\desktop\proyecto1\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	"Clientes.h"
+
+1590265412 c:\users\usuario\desktop\proyecto1\clientes.h
+
+1590267264 source:c:\users\usuario\desktop\proyecto1\agregarclientes.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	<fstream>
+	"Clientes.h"
+
+1590633605 source:c:\users\usuario\desktop\proyectofinal-master\agregarclientes.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	<fstream>
+	"Clientes.h"
+
+1590631291 c:\users\usuario\desktop\proyectofinal-master\clientes.h
+
+1590634261 source:c:\users\usuario\desktop\proyectofinal-master\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	"Clientes.h"
+
+1590633896 source:c:\users\usuario\desktop\proyectofinal-master\menu.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	"Clientes.h"
+
+1590681185 source:c:\users\usuario\desktop\proyecto final - metodologia de programacion\agregarclientes.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	<fstream>
+	"Clientes.h"
+
+1590681001 c:\users\usuario\desktop\proyecto final - metodologia de programacion\clientes.h
+
+1590680811 source:c:\users\usuario\desktop\proyecto final - metodologia de programacion\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	"Clientes.h"
+
+1590681188 source:c:\users\usuario\desktop\proyecto final - metodologia de programacion\menu.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	"Clientes.h"
+
